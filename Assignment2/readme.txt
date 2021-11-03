@@ -1,5 +1,5 @@
 Name: Rejwana Haque
-Student ID: 1627541
+
 
 Question 1: 
 (a)Answered in Scanned Assignment2.pdf
