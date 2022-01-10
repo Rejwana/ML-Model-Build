@@ -1,3 +1,3 @@
 # Regression and Classification
-Regression algorithms implemented on Assignment 2
-Classification algorithms implemented on Assignment 3
+Regression algorithms implemented on Assignment2.
+Classification algorithms implemented on Assignment3.
