@@ -1,4 +1,4 @@
-CMPUT 566 Assignment 3
+Classification Models
 Rejwana Haque
 
 
